@@ -1,0 +1,1 @@
+This repository is a project to help users choose forex pairs based on AI returns prediction. It is based on Swing Trader setting, that is it predicts next day's returns and based on that next current day investment can be made
